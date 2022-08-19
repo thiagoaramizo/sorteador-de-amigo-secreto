@@ -1,0 +1,14 @@
+.container {
+    background-color: #FFF9EB;
+    width: 100%;
+    padding: 50px;
+    border-top: 3px solid black;
+    border-radius: 80px 80px 0 0;
+
+    &__conteudo {
+        width: 90%;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    
+}

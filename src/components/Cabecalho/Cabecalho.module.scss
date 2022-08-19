@@ -1,0 +1,21 @@
+.cabecalho {
+    padding-top: 50px;
+
+    &__conteudo {
+        width: 900px;
+        min-height: 300px;
+        margin: 0 auto;
+        position: relative;
+
+        &__logo{
+            display: block;
+            width: 400px;
+        }
+        &__imagem{
+            position: absolute;
+            right: 0;
+            bottom: -31px;
+
+        }
+    }
+}
